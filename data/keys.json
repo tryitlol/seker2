@@ -1,0 +1,35 @@
+{
+  "ywrlds-78D40D3A-DB5E": {
+    "max_users": 1,
+    "used_by": [
+      "7250567791"
+    ],
+    "duration_type": "lifetime",
+    "duration_val": 0,
+    "expires_at": null,
+    "created_at": "2026-05-25T14:56:00.637632",
+    "created_by": 7675369659
+  },
+  "ywrlds-935B1101-AE61": {
+    "max_users": 1,
+    "used_by": [
+      "6666936121"
+    ],
+    "duration_type": "lifetime",
+    "duration_val": 0,
+    "expires_at": null,
+    "created_at": "2026-05-26T14:41:04.507621",
+    "created_by": 7675369659
+  },
+  "ywrlds-4FCC9BB3-2969": {
+    "max_users": 1,
+    "used_by": [
+      "5026584015"
+    ],
+    "duration_type": "lifetime",
+    "duration_val": 0,
+    "expires_at": null,
+    "created_at": "2026-05-26T17:22:35.390408",
+    "created_by": 7675369659
+  }
+}
